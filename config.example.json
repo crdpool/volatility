@@ -12,7 +12,7 @@
     },
     "worker": [
         {
-            "topicId": 1,
+            "topicId": 7,
             "inferenceEntrypointName": "api-worker-reputer",
             "loopSeconds": 5,
             "parameters": {
